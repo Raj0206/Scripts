@@ -26,5 +26,14 @@ Open a shell or Command Prompt. In the shell or Command Prompt type by replacing
  **Step 4:** Execute Shell Script Files
  
   - Open Shell or Command Prompt and navigate to the folder where the script file is available.
-  - Type Bash **Repository-Creation.sh** and hit the enter key.
+  - Type Bash **./Repository-Creation.sh**  or **Repository-Creation.sh** and hit the enter key.
   - It will run the script and show you the results.
+
+**Command Prompt**
+
+![image](https://user-images.githubusercontent.com/78465059/152468576-bec3f1e6-4900-46cf-9ad0-b7cf9e338279.png)
+
+**Git Bash**
+
+![image](https://user-images.githubusercontent.com/78465059/152468535-1f795b46-ed94-40fe-a085-fe922539fae9.png)
+
