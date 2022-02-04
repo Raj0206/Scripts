@@ -14,7 +14,7 @@ Open a shell or Command Prompt. In the shell or Command Prompt type by replacing
  
  `curl -H "Authorization: token <very-long-access-token>" https://api.github.com/orgs/<org-name>/teams`
  
- ![image](https://user-images.githubusercontent.com/78465059/152374698-edd339a7-6e05-4bc5-a334-0fa3148ff409.png)
+ ![image](https://user-images.githubusercontent.com/78465059/152469115-ba85769c-9f16-41db-8275-d0230cbed715.png)
 
  Of course your output might differ a little bit, just look for the ID "id":  5632385 in TEC0168.
 
